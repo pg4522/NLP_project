@@ -30,3 +30,9 @@ Events
 ======
 * 08/14
   * 10PM: First meeting [Link](https://few-geranium-eac.notion.site/2022-08-14-e8cb0fa4c2ce4b60aa343f35db7fe77e)
+ 
+* 08/17
+  * 11.5PM: Regular meeting [Link](https://www.notion.so/2022-08-17-a33f982323ae4127b35ee21616f486a9)
+  
+* 08/21
+  * 9.5AM: Regular meeting [Link](https://www.notion.so/2022-08-22-861ae0a1b1024c58affb2b1091beca24)
